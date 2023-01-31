@@ -9,7 +9,7 @@ from config import *
 from data_loader import *
 from transformers import AdamW, get_linear_schedule_with_warmup
 from utils.utils import *
-from networks.pfn import *
+from networks.A_2_model import *
 import argparse
 from torch.optim.lr_scheduler import CosineAnnealingWarmRestarts
 
