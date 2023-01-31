@@ -2,6 +2,7 @@
 
 ## Joint Alignment of Multi-Task Feature and Label Spaces for Emotion Cause Pair Extraction
 This repository contains the code of the official implementation for the paper: Joint Alignment of Multi-Task Feature and Label Spaces for Emotion Cause Pair Extraction. The paper has been accepted to appear at Coling 2022.
+Some code is based on [Rank-Emotion-Cause](https://github.com/Determined22/Rank-Emotion-Cause), and [Partition Filter Network](https://github.com/Coopercoppers/PFN).
 
 ## Requirements
 * CUDA：11.4
