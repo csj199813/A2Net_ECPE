@@ -11,6 +11,6 @@ Some code is based on [Rank-Emotion-Cause](https://github.com/Determined22/Rank-
 * PyTorch 1.10.2
 
 ## Quick Start
-1. Download the pertrained ["BERT-Base, Chinese"](https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz) model. And then put the model file pytorch_model.bin to the folder src/bert-base-chinese
+1. Download the pertrained ["BERT-Base, Chinese"](https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz) model. And then put the model file 'pytorch_model.bin' to the folder 'src/bert-base-chinese'
 
 2. python src/main.py
