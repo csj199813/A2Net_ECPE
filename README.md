@@ -38,4 +38,5 @@ The code has been tested on Ubuntu 20.04.3 LTS using a single 3090(24G).
 ## Quick Start
 1. Download the pertrained ["BERT-Base, Chinese"](https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz) model. And then put the model file `pytorch_model.bin` to the folder `src/bert-base-chinese`
 
-2. python src/main.py
+2. Run our model '*A^2Net*.
+   - `python src/main.py`
